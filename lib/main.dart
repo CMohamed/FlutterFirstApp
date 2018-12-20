@@ -20,12 +20,12 @@ class HelloRectangle extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-        color: Colors.greenAccent,
+        color: Colors.indigo,
         height: 400.0,
         width: 300.0,
         child: Center(
           child: Text(
-            'Hello!',
+            'CM10',
             style: TextStyle(fontSize: 40.0),
             textAlign: TextAlign.center,
           ),
@@ -148,3 +148,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+*/
